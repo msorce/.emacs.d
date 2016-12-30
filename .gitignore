@@ -1,4 +1,6 @@
+.gitignore
 elpa
 auto-save-list
 ac-comphist.dat
 .vscode
+
