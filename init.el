@@ -76,7 +76,7 @@
   :config
   (evil-mode 1))
 
-;;AUTO COMPLETE MODE
+;; AUTO COMPLETE MODE
 (use-package auto-complete
   :ensure t
   :defer t
